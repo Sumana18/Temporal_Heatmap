@@ -3,9 +3,9 @@ A heat map is a two-dimensional representation of data in which values are repre
 Temporal visualization and analysis refers to the process of looking at or analyzing features or data that are dependent variables where time is an independent variable.  
 
 2. OBJECTIVE OF PROJECT 
- Generation of heatmap using R  
- Temporal visualization of heatmaps  
- Interpretation of output obtained  
+* Generation of heatmap using R  
+* Temporal visualization of heatmaps  
+* Interpretation of output obtained  
 
 3. SOFTWARE AND DATA USED 
 3.1. SOFTWARE USED 
@@ -15,3 +15,5 @@ Generation Of Temporal Heat Map Using R |
  
 3.2. DATA USED 
 Crime data is taken from the free website Kaggle.com, which is Vancouver 's Open Data Catalogue. From Theft, Road Accidents, Bank Theft, Mischief, etc  data sets, we had taken according to our project requirements Vehicular Accidents Resulting in Death data. This data also contains coordinates, locations names, time and date of crime incidents, Coordinates help in placing the heatmap on the basemap of the area. 
+
+![Methodology](https://github.com/sumana18/Temporal_Heatmap/blob/master/Methodology.PNG)
