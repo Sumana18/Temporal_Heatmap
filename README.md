@@ -23,4 +23,4 @@ Temporal visualization and analysis refers to the process of looking at or analy
 
 ![Methodology](https://github.com/sumana18/Temporal_Heatmap/blob/master/Methodology.PNG)
 
-this can be used to make real time crime tracking system for safety of civilians
+
